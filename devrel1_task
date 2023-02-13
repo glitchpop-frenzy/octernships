@@ -55,12 +55,11 @@ To participate, you must be:
 - Video 3: Making a simple to-do app using Appwrite and Flutter
 - Each video must be between 15 minutes to 60 minutes range
 - The videos goal is to help new developers onboard with Appwrite making a simple to-do app and be able to follow along to video instructions
+- Don't worry about intro/outro assets, just the main content on how to build the app
 
 
 ### Task submission
 - Submit 3 x YouTube links on GitHub Classrooms
 
 ### Resources
-- Figma library [figma](https://www.figma.com/community/file/1205870689412229171)
-- npm [documentation](https://docs.npmjs.com/)
-- Sample [Issue](https://github.com/npm/cli/issues/6051)
+- Example of a how-to video [how to create google docs clone with Appwrite](https://www.youtube.com/watch?v=0_GJ1w_iG44)
