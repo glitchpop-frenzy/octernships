@@ -53,10 +53,6 @@ The Appwrite documentation is one of the most important touchpoints that develop
 ### Task submission
 Submit a Figma link with your redesign, with your design rationale included in the Figma file. 
 
-1. Creating a new branch
-2. Making changes on the new branch to complete the task
-3. Opening a Pull Request for review
-
 ### Resources
 - Figma library [figma](https://www.figma.com/community/file/1205870689412229171)
 - npm [documentation](https://docs.npmjs.com/)
