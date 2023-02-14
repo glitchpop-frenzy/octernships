@@ -51,6 +51,6 @@ Create a new DB adaptor, similar to Appwrite’s PostgreSQL or MongoDB adaptors.
 - Submit the PR to the GitHub Classroom
 
 ### Resources
-- Add new adapter[add new adapter](https://github.com/utopia-php/database/blob/main/docs/add-new-adapter.md)
-- Utopia Database[Utopia Database](https://github.com/utopia-php/database/blob/main/src/Database/Adapter.php
-- GitHub Repo[GitHub Repo](https://github.com/appwrite/rfc)
+- Add new adapter [add new adapter](https://github.com/utopia-php/database/blob/main/docs/add-new-adapter.md)
+- Utopia Database [Utopia Database](https://github.com/utopia-php/database/blob/main/src/Database/Adapter.php)
+- GitHub Repo [GitHub Repo](https://github.com/appwrite/rfc)
