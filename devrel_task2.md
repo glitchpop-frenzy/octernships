@@ -58,7 +58,7 @@ There are many tutorials on creating simple apps with Appwrite and high-level tu
 
 
 ### Task submission
-- Submit 1 YouTube link to Google Classrooms
+- Submit 1 YouTube link to GitHub Classrooms
 
 ### Resources
 - Example of a how-to video [how to create google docs clone with Appwrite](https://www.youtube.com/watch?v=0_GJ1w_iG44)
