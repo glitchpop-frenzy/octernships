@@ -52,6 +52,6 @@ Create UI helper libraries to help developers implement authentication, realtime
 - Submit the PRs to GitHub Classroom
 
 ### Resources
-- Firebase Auth[firebase auth](https://pub.dev/packages/firebase_ui_auth)
-- Firebase Open Source[Firebase Open Source](https://firebaseopensource.com/projects/firebase/firebaseui-web/)
-- GitHub Repo[GitHub Repo](https://github.com/appwrite/rfc)
+- Firebase Auth [firebase auth](https://pub.dev/packages/firebase_ui_auth)
+- Firebase Open Source [Firebase Open Source](https://firebaseopensource.com/projects/firebase/firebaseui-web/)
+- GitHub Repo [GitHub Repo](https://github.com/appwrite/rfc)
