@@ -58,7 +58,9 @@ There are many tutorials on creating simple apps with Appwrite and high-level tu
 
 
 ### Task submission
-- Submit 1 YouTube link to GitHub Classrooms
+1. Upload the task video to YouTube. Make sure the video is `public` or `unlisted`.
+3. Submit the Youtube Link to the auto generated **Feedback Pull Request** for review and submission.
+4. Using GitHub Discussions to ask any relevant questions regarding the project.
 
 ### Resources
 - Example of a how-to video [how to create google docs clone with Appwrite](https://www.youtube.com/watch?v=0_GJ1w_iG44)
