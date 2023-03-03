@@ -48,7 +48,9 @@ Create a new DB adaptor, similar to Appwrite’s PostgreSQL or MongoDB adaptors.
 - A blog post or article needs to be written to demonstrate the usage of the new database adapter.
 
 ### Task submission
-- Submit the PR to the GitHub Classroom
+1. Making changes on the auto generated `feedback` branch to complete the task
+2. Using the auto generated **Feedback Pull Request** for review and submission
+3. Using GitHub Discussions to ask any relevant questions regarding the project
 
 ### Resources
 - Add new adapter [add new adapter](https://github.com/utopia-php/database/blob/main/docs/add-new-adapter.md)
