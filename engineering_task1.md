@@ -49,7 +49,9 @@ Create UI helper libraries to help developers implement authentication, realtime
 - A blog post or article needs to be written to demonstrate the usage of the new helper libraries
 
 ### Task submission
-- Submit the PRs to GitHub Classroom
+1. Making changes on the auto generated `feedback` branch to complete the task
+2. Using the auto generated **Feedback Pull Request** for review and submission
+3. Using GitHub Discussions to ask any relevant questions regarding the project
 
 ### Resources
 - Firebase Auth [firebase auth](https://pub.dev/packages/firebase_ui_auth)
