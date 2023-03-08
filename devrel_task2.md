@@ -6,13 +6,13 @@ Appwrite is a secure open-source backend server provides the core APIs required 
 
 ### Why participate in an Octernship with GitHub
 Appwrite is an open-source project with a fast growing community. It started out as an open-source project a few years ago for the purpose of making software development easier and less complex to give developers a better starting point to build new projects. Our team is actively working with the fast-growing community to make Appwrite better.
-In this role, you will have the opportunity to work as a Developer Advocate by creating simple how-to video demos using Appwrite and Flutter.
+In this role, you will have the opportunity to work as a Developer Advocate by creating simple how-to video demos using Appwrite and Nodejs.
 
 
 ### Octernship role description
 We're looking for a Developer Advocate to join our Developer Relations team. This team is responsible for fostering and engaging an open source community by creating simple apps and demonstrating it on YouTube videos.
 
-There are many tutorials on creating a to-do app with Appwrite and many high-level video tutorials. What’s missing are the very basics, covering both Flutter and Appwrite fundamentals.  We are looking for an Octern who can demonstrate their developer relations ability by being able to explain a clear step-by-step tutorial on building an app that would help a new developer/CS build their first to-do app.
+There are many tutorials on creating a to-do app with Appwrite and many high-level video tutorials. What’s missing are the very basics, covering both Nodejs and Appwrite fundamentals.  We are looking for an Octern who can demonstrate their developer relations ability by being able to explain a clear step-by-step tutorial on building an app that would help a new developer/CS build their first to-do app.
 
 
 | Octernship info  | Timelines and Stipend |
@@ -24,7 +24,7 @@ There are many tutorials on creating a to-do app with Appwrite and many high-lev
 ### Recommended qualifications
 - Experience with Git & GitHub
 - Experience with Video Editing and using YouTube
-- Experience with Flutter
+- Experience with Nodejs
 - Experience with Docker
 - Experience with Appwrite
 
