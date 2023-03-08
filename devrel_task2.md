@@ -34,7 +34,7 @@ To participate, you must be:
 * 18 years or older
 * Active contributor on GitHub (monthly)
 
-# YouTube Tutorial: Create a Simple Notes App with Appwrite, Flutter, and MeiliSearch
+# YouTube Tutorial: Create a Simple Notes App with Appwrite, Nodejs, and MeiliSearch
 ## Create a searchable notes app using Appwrite, Nodejs, and MeiliSearch
 
 ### Task instructions
