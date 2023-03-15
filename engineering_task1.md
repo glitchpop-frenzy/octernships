@@ -17,9 +17,8 @@ In this role, you will create UI helper libraries to help developers implement a
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
-| Assignment Deadline  | 15 May 2023  |
+| Assignment Deadline  | 15 April 2023  |
 | Octernship Duration  | 2 Months  |
-| Monthly Stipend  | $500 USD  |
 
 ### Recommended qualifications
 - Experience with Git & GitHub
