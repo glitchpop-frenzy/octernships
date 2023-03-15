@@ -15,7 +15,7 @@ We're looking for a designer to join our design team. This team is responsible f
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
 | Assignment Deadline  | 15 April 2023  |
-| Octernship Duration  | 2 Months  |
+
 
 ### Recommended qualifications
 - Experience with Git & GitHub
