@@ -17,9 +17,8 @@ There are many tutorials on creating a to-do app with Appwrite and many high-lev
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
-| Assignment Deadline  | 15 May 2023  |
+| Assignment Deadline  | 15 April 2023  |
 | Octernship Duration  | 2 Months  |
-| Monthly Stipend  | $500 USD  |
 
 ### Recommended qualifications
 - Experience with Git & GitHub
